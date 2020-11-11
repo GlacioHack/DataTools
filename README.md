@@ -19,4 +19,4 @@ Each individual data tool should be developed in its own repository within the G
 
 ## Repos/projects we've started
 
-* Here's an empty list.
+* https://www.github.com/GlacioHack/gs_landsat : a fork of a repo started by @atedstone for (a) querying a local SQL database of the Google Cloud Store of Landsat imagery, and (b) managing the download of those data.
